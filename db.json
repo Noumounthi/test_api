@@ -1,0 +1,90 @@
+{
+    "id_species": 5,
+    "name": "Poulet",
+    "description": null,
+    "icon": "http://faosn-backend.herokuapp.com/media/species/icons/chicken.png",
+    "vacinations": [{
+            "id": 1,
+            "deseases": [{
+                    "id": 1,
+                    "name": "Peste des petits ruminants",
+                    "description": "",
+                    "icon": null
+                },
+                {
+                    "id": 2,
+                    "name": "Peste équine",
+                    "description": "",
+                    "icon": null
+                }
+            ],
+            "name": "Peste des petits ruminants",
+            "description": "a peste des petits ruminants (PPR), aussi appelée « pseudopeste bovine des petits ruminants », est une maladie virale qui affecte les ovins et les caprins.          La PPR présente les signes cliniques suivants :              diarrhée;             fièvre;             pneumonie;             ulcères dans la gueule;             mort.          La maladie affecte habituellement les ovins et les caprins, ces derniers étant les plus gravement touchés. On a également détecté des cas de PPR chez des chevreuils, des gazelles et des ibex domestiqués.          Bien que le virus puisse également infecter les porcs et les bovins, ceux là ne présentent pas de signes cliniques et ne peuvent pas transmettre la maladie.         La peste des petits ruminants présente t elle des risques pour la santé humaine?          Non. La peste des petits ruminants ne présente aucun risque pour la santé humaine.         Quels sont les signes cliniques associés à la peste des petits rumiddddddddnantsdsHabituellement, la maladie survient subitement et cause les signes cliniques suivants :              écoulement de sécrétions nasales limpides;             fièvre;             perte d'appétit;             grave dépression.          À mesure que la maladie évolue, d'autres signes cliniques peuvent apparaître, notamment :              un écoulement nasal épais et jaune formant une croûte et bouchant les naseaux;             graves infections oculaires;             enflure des tissus buccaux;             ulcères sur la gencive inférieure, sur le bourrelet gingival, sur le palais dur, sur les bajoues et sur la langue;             grave diarrhée causant une déshydratation et une grave perte de poids.          Il n'est pas rare que l'animal contracte une pneumonie au cours des derniers stades de la maladie. Les femelles en gestation peuvent avorter. Le pronostic est grave, puisque l'animal peut mourir trois à huit jours après l'apparition de la fièvre. Les jeunes animaux sont les plus gravement touchés.         Où trouve t on la peste des petits ruminants?          La PPR a été détectée dans de nombreuses régions d'Afrique ainsi que dans d'autres pays. Elle n'a jamais été diagnostiquée au Canada.         Comment la peste des petits ruminants se transmet elle et se propage t elle?          La maladie n'est pas très contagieuse. Sa transmission nécessite un contact étroit entre les animaux. Le virus peut se transmettre :              par les excréments des animaux infectés;             par les sécrétions nasales;             par les sécrétions expulsées par la toux;             par les larmes. ",
+            "objectifs": "5 462 592 (50% effectif)",
+            "couverture": "by area",
+            "cout": 300.0,
+            "contribution_eleveur": "100",
+            "mandat_sanitaire": null,
+            "totaux": "400",
+            "startDate": "2017-10-10T12:41:53Z",
+            "endDate": "2017-10-10T12:41:56Z",
+            "species": [{
+                    "id": 5,
+                    "name": "Poulet",
+                    "description": null,
+                    "icon": "http://faosn-backend.herokuapp.com/media/species/icons/chicken.png",
+                    "parent": null
+                },
+                {
+                    "id": 9,
+                    "name": "Mouton",
+                    "description": "Mouton",
+                    "icon": "http://faosn-backend.herokuapp.com/media/species/icons/sheep.png",
+                    "parent": null
+                },
+                {
+                    "id": 7,
+                    "name": "Chevre",
+                    "description": "Chevre",
+                    "icon": "http://faosn-backend.herokuapp.com/media/species/icons/goat.png",
+                    "parent": null
+                },
+                {
+                    "id": 6,
+                    "name": "Vache",
+                    "description": "Poulet",
+                    "icon": "http://faosn-backend.herokuapp.com/media/species/icons/cow.png",
+                    "parent": null
+                }
+            ]
+        },
+        {
+            "id": 3,
+            "deseases": [{
+                "id": 3,
+                "name": "Maladie de Newcastle",
+                "description": "",
+                "icon": null
+            }],
+            "name": "Maladie de Newcastle",
+            "description": " Aire de répartition\n\n        Le virus peut affecter tous les lieux où vivent des oiseaux. Il est endémique dans de nombreux pays du monde, mais les élevages de certains états européens bénéficient d'un statut indemne depuis plusieurs années, ce qui laisse penser que l'élevage et le transport légal ou illégal des volailles, poussins ou canetons de 1 jour, d’oiseaux exotiques ou de plumes, fumiers, carcasses, etc. jouent - comme pour la grippe aviaire - un rôle important de réservoir et/ou vecteur du virus quand les bonnes pratiques n’y sont pas strictement respectées et contrôlées.\n        Modes de dissémination\n\n        Le virus naturel est probablement diffusé par les oiseaux migrateurs, mais les épizooties chez la volaille semblent liées aux pratiques avicoles. L’ACIA, comme la plupart des experts, estime que la première source de diffusion du virus sont les personnes travaillant dans le secteur de la volaille dont les acheteurs de volaille, livreurs d’aliments pour animaux ou les aviculteurs eux-mêmes. Le virus, très résistant, est facilement véhiculé sur leurs habits, sous leurs chaussures et sur leurs instruments ou véhicules.\n\n        Dans les pays riches, la maladie est surveillée chez la faune sauvage où elle semble poser moins de problème que dans les élevages.\n\n        Les oiseaux sauvages peuvent être très exposés aux virus via le lessivage des eaux de nettoyage des poulaillers et surtout via l’épandage de fientes contaminées sur les champs agricoles où se nourrissent de nombreux oiseaux. Le compostage des excréments (dont ceux de pigeons) dans de bonnes conditions réglerait le problème, mais il est rarement pratiqué : les fientes seules sont trop riches en nutriments pour être compostées, il faut les mélanger avec des végétaux, du bois en mettant le tas de compost à l'abri des oiseaux.\n        Chez l'Homme ?\n\n        Le risque sanitaire est réputé nul à quasiment-nul pour l’Homme qui n'est pas censé être sensible au virus.\n\n        Le virus n’a donc pas d’incidence importante sur la salubrité des produits de la volaille et des œufs - pour la consommation humaine - bien que les œufs d’oiseaux malades perdent rapidement une partie de leurs qualités.\n\n        La littérature signale cependant quelques cas de conjonctivite induites chez l’homme (conjonctivite à bacille de Weeks (en)) lorsqu’il est exposé à une forte concentration du virus, ou à la suite de contacts répétés et proches avec des oiseaux malades ou des produits contaminés1. Les aviculteurs doivent éviter la formation d’aérosols (par brumisation d'eau sur les substances sèches susceptibles de produire de la poussière par exemple) pouvant provoquer la contamination de yeux et des muqueuses.\n\n        C'est via les impacts économiques pour la filière avicole et les pertes dans les basses-cours familiales des familles pauvres ou isolées que le virus affecte l'Homme. Dans les pays pauvres, la maladie prive les familles de leur première source de protéines, et dans les pays riches, elle induit des coûts élevés : la Californie et ses producteurs de volaille industrielle ont par exemple été touchés de 1971 à 1973 par une forme très pathogène du virus. Il a fallu dépenser 50 millions de dollars US pour éliminer près de 12 millions d’oiseaux infectés dans cet état, ce qui n’a pas empêché le virus d'y réapparaître en 2002 avant de diffuser en Arizona, au Nevada et au Texas, engendrant de nouvelles mesures coûteuses pour son contrôle (recherche, élimination, vaccination et suivi).\n        Le virus\n\n        Le virus de la maladie de Newcastle est un paramyxovirus de type 1. C'est donc un virus à enveloppe, fragile dans le milieu exterieur mais résistant au froid.\n\n        C’est un virus ARN-, à un seul segment (à la différence de la grippe qui a 8 segments), dit monocaténaire. Les virus à ARN mutent facilement et souvent ce qui peut rendre les stratégies pharmaceutiques et vaccinale plus complexes et difficiles.\n\n        L’enveloppe d'un diamètre de 150 à 300 nm présente 2 types de spicules glycoprotéiniques. Elle est caractérisée par :\n\n            une glycoprotéine HN, possédant les activités hémagglutinante et neuramidasique, permettant l'attachement du virion sur des récepteurs membranaires à la surface de la cellule et son relarguage ;\n            une glycoprotéine F qui permet la fusion entre l'enveloppe virale et la membrane cellulaire2.\n\n        La culture du virus se fait aisément dans des œufs de poule embryonnés ou in vitro (sur fibroblastes d’embryons de poulet ou sur des cellules rénales de poulet).\n        Durée de vie\n\n        Le virus est très résistant à température ambiante, Il reste infectieux :\n\n            longtemps (plusieurs mois) dans les matières fécales ;\n            2 à 3 mois au sol, dans un poulailler ;\n            7 à 8 mois sur une coquille souillée ;\n            2 ans et plus dans une carcasse non cuite et congelée.\n        ",
+            "objectifs": "5 982 318 (25% effectif)",
+            "couverture": null,
+            "cout": null,
+            "contribution_eleveur": null,
+            "mandat_sanitaire": null,
+            "totaux": null,
+            "startDate": null,
+            "endDate": null,
+            "species": [{
+                "id": 5,
+                "name": "Poulet",
+                "description": null,
+                "icon": "http://faosn-backend.herokuapp.com/media/species/icons/chicken.png",
+                "parent": null
+            }]
+        }
+    ]
+
+
+}
